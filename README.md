@@ -1,5 +1,5 @@
 # 💫 About Me:
-A-Level student exploring the intersection of Computer Science, Mathematics, and Physics with a strong focus on building real-world problem-solving skills. I’m currently learning Python, algorithms, and system thinking while working toward becoming someone who can turn ideas into scalable products.<br><br>I’m especially interested in astronomy, data-driven systems, and using code to model real-world phenomena. Outside academics, I’m focused on discipline, consistency, and building projects that actually matter—not just coursework.<br><br>Right now, I’m in the learning phase, but the goal is simple: become someone who builds, leads, and solves problems at scale.
+A-Level student exploring the intersection of Computer Science, Mathematics, and Physics with a strong focus on building real-world problem-solving skills. I’m currently learning Python, algorithms, and system thinking while working toward becoming someone who can turn ideas into scalable products.<br><br>I’m especially interested in astronomy, data-driven systems, and using code to model real-world phenomena. Outside academics, I’m focused on discipline, consistency, and building projects that actually matter not just coursework.<br><br>Right now, I’m in the learning phase, but the goal is simple: become someone who builds, leads, and solves problems at scale.
 
 
 ## 🌐 Socials:
